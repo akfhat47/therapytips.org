@@ -23,7 +23,7 @@ const generateSearchResults = (filteredArticles) => {
             (article, index) =>
               `<li>
                 <h3>${index + 1}. <a  href="/article/${article.id}" hx-get="/article/${article.id}" hx-trigger="click" hx-push-url="true" hx-target="main" hx-swap="innerHTML">${article.title}</a></h3>
-                <p>${article.description || "No description available"}</p>
+                <p>${article.intro || "No description available"}</p>
               </li>`
           )
           .join("")}
