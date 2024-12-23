@@ -214,24 +214,8 @@ const createHomePageTemplate = (mainContent) =>
       Search
     </a>
   </li>
-  <li>
-    <a href="/about" 
-       hx-get="/about" 
-       hx-target="main" 
-       hx-push-url="/about" 
-       hx-swap="innerHTML">
-      About Us
-    </a>
-  </li>
-  <li>
-    <a href="/contact" 
-       hx-get="/contact" 
-       hx-target="main" 
-       hx-push-url="/contact" 
-       hx-swap="innerHTML">
-      Contact
-    </a>
-  </li>
+  
+    
 </ul>
       </nav>
     </div>
