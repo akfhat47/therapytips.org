@@ -18,15 +18,11 @@ export const createArticlePageTemplate = articleId => {
     <h1>${article.title}</h1>
     <p><strong>Author:</strong> ${article.author}</p>
     <p><strong>Published:</strong> ${article.publishDate}</p>
-    <div>
-      ${article.content
-        .map(
-          section => `
-        <h2>${section.title}</h2>
-        <p>${section.data}</p>`
-        )
-        .join("")}
-    </div>
-    <a href="/" hx-get="/" hx-push-url="true" hx-target="main" hx-swap="outerHTML">Back to Homepage</a>
+    <p>
+      ${article.content}
+    </p>
+   
+    
+    <a href="/" hx-get="/" hx-push-url="true" hx-target="body" hx-swap="innerHTML">Back to Homepage</a>
   </div>`;
 };

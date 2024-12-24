@@ -6,36 +6,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "In some relationships, it can be hard to tell where love ends and codependency begins. A loving relationship feels like safety and warmth—a space where you can be yourself, have tough conversations without fear and feel valued for who you are, rather than how much you can give someone else.</P>\n<P>Codependency, on the other hand, feels like walking on eggshells in a relationship—constantly second-guessing every interaction, seeking approval and living in fear that a single misstep could cause everything to unravel.</P>\n<P>According to a 2018 <A title=\"https://doi.org/10.1007/s11469-018-9983-8\" href=\"https://doi.org/10.1007/s11469-018-9983-8\" rel=\"nofollow noopener\">study</A> published in the <EM>International Journal of Mental Health and Addiction</EM>, codependency is a complex and multifaceted psychosocial problem. It manifests as three interconnected experiences:</P>\n<UL>\n<LI><STRONG>A lack of a clear sense of self</STRONG>, where individuals struggle to define their identity outside of relationships.</LI>\n<LI><STRONG>Extreme emotional imbalance</STRONG>, characterized by enduring cycles of instability in various spheres of life, including one&#39;s personal life, relationships and occupation.</LI>\n<LI><STRONG>Lasting effects of childhood experiences</STRONG>, with issues of parental abandonment and control shaping current relational dynamics.</LI>\n</UL>\n<P>Building on these insights, here are four common types of codependent dynamics that illustrate how these patterns can play out in relationships:</P>\n<H3>1. The Enabler And The Transgressor</H3>\n<P>In this codependent dynamic, the &quot;enabler&quot; is the person who often believes, &quot;I can fix them if I love them enough.&quot; This misguided sense of duty drives them to overlook harmful behaviors, such as substance abuse or emotional outbursts, in an attempt to save the relationship. Struggling to set boundaries, they excuse their partner&#39;s actions repeatedly, while sacrificing their own well-being.</P>\n<P>For instance, one partner&#39;s occasional drinking might escalate into a dependency over time. Despite repeated promises such as &quot;I&#39;ll change&quot; or &quot;This was the last time,&quot; the behavior persists, leading to constant arguments and chaos. The enabler, desperate to avoid conflict and keep the peace, forgives the &quot;transgressor&quot; each time, even though both know the cycle will repeat. This creates a vicious cycle where neither partner grows or heals.</P>\n<H3>2. The Dominant And The Submissive</H3>\n<P>Contrary to how they appear on the outside, &quot;dominant&quot; partners are often driven by fear and a need for security. To feel safe, they seek to manage and control their partner&#39;s behaviors, struggling with uncertainty and often finding it difficult to trust their partner&#39;s decisions. This need for control stems from deep-seated anxiety and an inability to let go.</P>\n<P>In contrast, the &quot;submissive&quot; partner complies to avoid conflict or abandonment, suppressing their needs and desires to maintain peace. Over time, this dynamic creates a destructive loop, with the dominant partner tightening their grip and the submissive losing their sense of self.</P>\n<P>As Selma, a participant from the 2018 study explains, &quot;It is like the chameleon, you know, trying to fit in with every situation rather than allowing myself to be who I am.&quot; This highlights the submissive&#39;s tendency to bend to their partner&#39;s needs, eroding their sense of self and leaving them feeling frustrated, lost and trapped in the relationship.</P>\n<P>For instance, imagine a relationship where one partner dictates what their significant other can wear, who they can meet or how they spend their time. The submissive might think, &quot;They just care about me,&quot; while suppressing their frustration. Meanwhile, their partner&#39;s inability to let go fuels a cycle of constant control, leaving both feeling unfulfilled.</P>\n<P>A 2022 <A title=\"https://doi.org/10.1177/08862605221117158\" href=\"https://doi.org/10.1177/08862605221117158\" rel=\"nofollow noopener\">study</A> published in the <EM>Journal of Interpersonal Violence</EM> reveals the early roots of this dominant-submissive dynamic. Researchers found that higher levels of parental psychological control during childhood are associated with unbalanced power dynamics in adult relationships, while individuals with a stronger belief in their ability to maintain relationships find themselves in more balanced partnerships.",
         articleType: "articles",
         topicType: ""
     },
@@ -46,36 +17,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Conflict is a natural part of any relationship. Whether it's a minor disagreement about what to watch on TV or a heated debate over personal values, these moments of discord can leave us feeling uneasy.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Conflict is a natural part of any relationship. Whether it's a minor disagreement about what to watch on TV or a heated debate over personal values, these moments of discord can leave us feeling uneasy."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "In some relationships, it can be hard to tell where love ends and codependency begins. A loving relationship feels like safety and warmth—a space where you can be yourself, have tough conversations without fear and feel valued for who you are, rather than how much you can give someone else.</P>\n<P>Codependency, on the other hand, feels like walking on eggshells in a relationship—constantly second-guessing every interaction, seeking approval and living in fear that a single misstep could cause everything to unravel.</P>\n<P>According to a 2018 <A title=\"https://doi.org/10.1007/s11469-018-9983-8\" href=\"https://doi.org/10.1007/s11469-018-9983-8\" rel=\"nofollow noopener\">study</A> published in the <EM>International Journal of Mental Health and Addiction</EM>, codependency is a complex and multifaceted psychosocial problem. It manifests as three interconnected experiences:</P>\n<UL>\n<LI><STRONG>A lack of a clear sense of self</STRONG>, where individuals struggle to define their identity outside of relationships.</LI>\n<LI><STRONG>Extreme emotional imbalance</STRONG>, characterized by enduring cycles of instability in various spheres of life, including one&#39;s personal life, relationships and occupation.</LI>\n<LI><STRONG>Lasting effects of childhood experiences</STRONG>, with issues of parental abandonment and control shaping current relational dynamics.</LI>\n</UL>\n<P>Building on these insights, here are four common types of codependent dynamics that illustrate how these patterns can play out in relationships:</P>\n<H3>1. The Enabler And The Transgressor</H3>\n<P>In this codependent dynamic, the &quot;enabler&quot; is the person who often believes, &quot;I can fix them if I love them enough.&quot; This misguided sense of duty drives them to overlook harmful behaviors, such as substance abuse or emotional outbursts, in an attempt to save the relationship. Struggling to set boundaries, they excuse their partner&#39;s actions repeatedly, while sacrificing their own well-being.</P>\n<P>For instance, one partner&#39;s occasional drinking might escalate into a dependency over time. Despite repeated promises such as &quot;I&#39;ll change&quot; or &quot;This was the last time,&quot; the behavior persists, leading to constant arguments and chaos. The enabler, desperate to avoid conflict and keep the peace, forgives the &quot;transgressor&quot; each time, even though both know the cycle will repeat. This creates a vicious cycle where neither partner grows or heals.</P>\n<H3>2. The Dominant And The Submissive</H3>\n<P>Contrary to how they appear on the outside, &quot;dominant&quot; partners are often driven by fear and a need for security. To feel safe, they seek to manage and control their partner&#39;s behaviors, struggling with uncertainty and often finding it difficult to trust their partner&#39;s decisions. This need for control stems from deep-seated anxiety and an inability to let go.</P>\n<P>In contrast, the &quot;submissive&quot; partner complies to avoid conflict or abandonment, suppressing their needs and desires to maintain peace. Over time, this dynamic creates a destructive loop, with the dominant partner tightening their grip and the submissive losing their sense of self.</P>\n<P>As Selma, a participant from the 2018 study explains, &quot;It is like the chameleon, you know, trying to fit in with every situation rather than allowing myself to be who I am.&quot; This highlights the submissive&#39;s tendency to bend to their partner&#39;s needs, eroding their sense of self and leaving them feeling frustrated, lost and trapped in the relationship.</P>\n<P>For instance, imagine a relationship where one partner dictates what their significant other can wear, who they can meet or how they spend their time. The submissive might think, &quot;They just care about me,&quot; while suppressing their frustration. Meanwhile, their partner&#39;s inability to let go fuels a cycle of constant control, leaving both feeling unfulfilled.</P>\n<P>A 2022 <A title=\"https://doi.org/10.1177/08862605221117158\" href=\"https://doi.org/10.1177/08862605221117158\" rel=\"nofollow noopener\">study</A> published in the <EM>Journal of Interpersonal Violence</EM> reveals the early roots of this dominant-submissive dynamic. Researchers found that higher levels of parental psychological control during childhood are associated with unbalanced power dynamics in adult relationships, while individuals with a stronger belief in their ability to maintain relationships find themselves in more balanced partnerships.",
         articleType: "articles",
         topicType: ""
     },
@@ -86,36 +28,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "articles",
         topicType: ""
     },
@@ -126,36 +39,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "articles",
         topicType: ""
     },
@@ -166,36 +50,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "newInterviews",
         topicType: ""
     },
@@ -206,36 +61,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "newInterviews",
         topicType: ""
     },
@@ -246,36 +72,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "newInterviews",
         topicType: ""
     },
@@ -286,36 +83,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "newInterviews",
         topicType: ""
     },
@@ -326,36 +94,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "adviceColumns",
         topicType: ""
     },
@@ -366,36 +105,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "adviceColumns",
         topicType: ""
     },
@@ -406,36 +116,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "personalityTests",
         topicType: ""
     },
@@ -446,36 +127,7 @@ const ARTICLES = [
         author:"Mark Travers, Ph.D.",
         intro: "Tired of needing to put up an act in the bedroom? Here's three reasons why 'fake orgasms' can be such a tricky habit to kick.",
         publishDate: "December 20, 2024",
-        content: [{
-            id: 0,
-            type:"header",
-            title: "Donec quis tincidunt dolor.",
-            data:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel egestas velit. Fusce ut dolor enim. Pellentesque sit amet sem sapien. Donec cursus sollicitudin pellentesque. Suspendisse a nibh porttitor tellus consequat accumsan at id dolor."
-        },
-        {
-            id: 1,
-            type:"paragraph",
-            title: "Aenean vulputate elit aliquet, malesuada lacus non, vulputate velit. ",
-            data:"Praesent in dui eget turpis rutrum tempor eget eu tellus. Aliquam nisi magna, sollicitudin vitae mauris nec, feugiat feugiat felis. Quisque posuere mollis purus, id hendrerit nisl imperdiet non. Ut viverra sodales dolor. Nam sagittis congue ante nec semper. Proin suscipit ex nec consequat porta. Nullam a turpis turpis. Aliquam mattis dui in tempor pulvinar. Maecenas varius est at vestibulum molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer at suscipit lorem."
-        },
-        {
-            id: 2,
-            type:"Paragraph",
-            title: "Praesent dignissim leo vitae tincidunt scelerisque. ",
-            data:"Maecenas dignissim dapibus ex vitae dapibus. Vestibulum faucibus orci id malesuada sodales. Duis ac magna finibus, blandit libero nec, dignissim lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec aliquet orci nec lacus volutpat, et consequat est tempor. Nullam sed porta massa, vitae euismod tortor. "
-        },
-        {
-            id: 3,
-            type: "paragraph",
-            title: "Maecenas quis velit libero.",
-            data:"Maecenas quis velit libero. Mauris posuere, magna eu bibendum vehicula, arcu nunc ornare mauris, in cursus ipsum metus quis turpis. Morbi eget ligula laoreet, vehicula elit ut, porta nulla. Phasellus leo nibh, fringilla et massa varius, facilisis molestie lorem. Aenean nisl enim, molestie vel faucibus non, eleifend eget leo. Maecenas luctus suscipit dapibus. Praesent dignissim leo vitae tincidunt scelerisque. "
-        },
-        {
-            id: 4,
-            type:"footer",
-            title: "Mauris a urna sit amet mauris consequat euismod.",
-            data:"Mauris a urna sit amet mauris consequat euismod. Ut vel faucibus lorem, in egestas mauris. Ut ut aliquam lorem. Maecenas semper at sapien non vulputate."
-        }],
+        content: "Fake orgasms, believe it or not, are of great interest to psychological researchers—not just why individuals fake them, but also why some choose to stop faking them.\n\nAccording to an October 2024 study from *The Journal of Sex Research*, fake orgasms aren’t particularly common. Specifically, 51% of the study’s sample—11,541 individuals across Europe—claimed to have never faked an orgasm. On the other hand, only 13% of the sample admitted to currently faking orgasms in their sex life. Fascinatingly, however, 28% of the study’s sample admitted to having previously faked orgasms but had since kicked the habit.\n\nBased on existing research, here’s three reasons why some individuals feel the need to put on an act in the bedroom—and, based on the abovementioned study, how to drop the act.\n\n## 1. To Make Their Partner (And Themselves) Feel Better\n\nGone are the days where sex, and the enjoyment thereof, was a taboo topic. Today, in the modern age, views and beliefs regarding it are much different—sex is for anyone, and sex is for pleasure. However, it is nevertheless a collaborative act; both people work together, giving and taking, to ensure one another’s enjoyment.\n\nAs a 2008 study from the *Journal of Sex & Marital Therapy* explains:\n> \"There is considerable emphasis on sexuality and especially on orgasmic responsiveness in the popular press.\"\n\nThey continue:\n> \"In other words, societal expectations currently exist which conclude that merely being in love and engaging in sexual intercourse is not good enough—you must also be a 'good lover.'\"\n\nThis mounting pressure to be a \"good lover,\" combined with the idea that sex is only \"successful\" if both partners reach orgasm, can put a lot of pressure on everyone involved.",
         articleType: "personalityTests",
         topicType: ""
     },
